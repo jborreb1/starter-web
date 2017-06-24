@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jack Borrebach -- Scrivner -- Not On Twitter
 
 # THANKS
 
