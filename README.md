@@ -16,6 +16,8 @@ Deployment text here ...
 
 ## How To Contribute
 
+Please fork this repo and then issue pull request for review.
+
 ### Copyright
 
 Copyright 2014 Git.Training
