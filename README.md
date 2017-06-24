@@ -15,3 +15,7 @@ Purpose text here
 Deployment text here ...
 
 ## How To Contribute
+
+### Copyright
+
+Copyright 2014 Git.Training
